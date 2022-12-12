@@ -6,7 +6,7 @@ public class Questin2 {
 		
 		// String ifadeyi kullanicidan alma ve konsolda yazdirma
 		
-		String myFirstName= "Imren", myLastName= "Asan", myAddress= "Hille - Germany";
+		String myFirstName= "Imren", myLastName= "Asan", myAddress= "Germany";
 		
 		System.out.println("My name's " + myFirstName+ " " + myLastName);
 		System.out.println("I live in " + myAddress);
